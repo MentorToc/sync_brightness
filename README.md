@@ -1,4 +1,4 @@
-# sync_brightness
+# sync_brightness.sh (Linux)
 
 🇺🇸 <b>Synchronizing the brightness of displays in Linux</b>
 
