@@ -8,6 +8,15 @@ I found a solution by using a script that automatically pulls up the current scr
 
 The script caches the brightness information, thus not creating an unnecessary load by constantly changing the screen brightness. Works with both X11 and Wayland.
 
+<b>Installation</b>
+
+1. Install dependencies:
+   * ddcutil
+   * brightnessctl
+   * wget
+
+2. Coming soon
+
 ---------------------------------------------------
 
 🇷🇺 <b>Синхронизация яркости дисплеев в Linux</b>
@@ -17,3 +26,12 @@ The script caches the brightness information, thus not creating an unnecessary l
 Я нашёл решение в использовании скрипта, который в автоматическом режиме подтягивает текущую яркость экрана, распространяя её и на второй дисплей.
 
 Скрипт кэширует информацию о яркости, тем самым не создавая излишней нагрузки, постоянно изменяя яркость экрана. Работает как с X11, так и с Wayland.
+
+Установка
+
+1. Установите зависимости:
+   * ddcutil
+   * brightnessctl
+   * wget
+  
+2. Совсем скоро
