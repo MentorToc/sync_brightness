@@ -14,6 +14,7 @@ The script caches the brightness information, thus not creating an unnecessary l
    * ddcutil
    * brightnessctl
    * wget
+   * screen or systemctl
 
 2. Coming soon
 
