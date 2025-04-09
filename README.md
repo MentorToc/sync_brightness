@@ -10,7 +10,7 @@ The script caches the brightness information, thus not creating an unnecessary l
 
 <b>Installation</b>
 
-1. Install dependencies:
+1. Install dependencies or make sure they're available:
    * ddcutil
    * brightnessctl
    * wget
@@ -30,9 +30,10 @@ The script caches the brightness information, thus not creating an unnecessary l
 
 Установка
 
-1. Установите зависимости:
+1. Установите зависимости или убедитесь в их наличии:
    * ddcutil
    * brightnessctl
    * wget
+   * screen или systemctl
   
 2. Совсем скоро
