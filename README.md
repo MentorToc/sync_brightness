@@ -1,6 +1,6 @@
 # sync_brightness
 
-<b>Synchronizing the brightness of displays in Linux</b>
+🇺🇸 <b>Synchronizing the brightness of displays in Linux</b>
 
 When using different Linux distributions, I have encountered the same problem: When changing the screen brightness on the laptop, the screen brightness on the second display does not change.
 
@@ -10,7 +10,7 @@ The script caches the brightness information, thus not creating an unnecessary l
 
 ---------------------------------------------------
 
-<b>Синхронизация яркости дисплеев в Linux</b>
+🇷🇺 <b>Синхронизация яркости дисплеев в Linux</b>
 
 При использовании различных Linux-дистрибутивов я сталкивался с одной и той же проблемой: При изменении яркости экрана на ноутбуке не меняется яркость экрана на втором дисплее.
 
